@@ -22,21 +22,13 @@ The project leverages machine learning models to predict user preferences and su
 
 ## Project Strucure (TODO)
 MusicMixes/
-│
-├── data/               # Raw and processed data files
-├── notebooks/          # Jupyter notebooks for exploration and experiments
-├── models/             # Machine learning models and training scripts
-├── utils/              # Utility scripts for data processing, feature engineering, etc.
-├── README.md           # Project overview and setup instructions
-├── requirements.txt    # Project dependencies
-└── setup.py            # Package configuration
 
 ## License
-This project is licensed under the MIT License - see License file for details.
+This project is licensed under the MIT License - see [License](https://github.com/rhit-pabbates/415-final-project-musicmixes/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
-Dataset: 
-Course: CSSE/MA415 Machine Learning
-Advisor: Dr. David Henthorn
+- **Dataset**: [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+- **Course**: CSSE/MA415 Machine Learning
+- **Advisor**: Dr. David Henthorn
 
 
